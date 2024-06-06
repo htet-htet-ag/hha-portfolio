@@ -15,8 +15,7 @@ export const EXPERIENCES = [
     company: "Truemoney Myanmar",
     description: `Designed and implemented high-performance web applications and optimised components for
     maximum reusability across different projects. Develop and maintain server-side logic, web portal and web applications using PHP, Laravel, WordPress(CMS), JavaScript, Bootstarp, HTML, CSS and RESTful API. Build the front end of applications through appealing visual design. Implement and provide security best practices and ensure compliance with relevant standards and
-    regulations throughout the development and deployment process. Deploy systems to production and provide post-implementation support. Partner with internal teams, including Product Team, Marketing Team, and Customer Service Team to understand
-    requirements, user needs and design feasibility. Experience working in Agile using the JIRA tool.`,
+    regulations throughout the development and deployment process. Deploy systems to production and provide post-implementation support. Experience working in Agile using the JIRA tool.`,
     technologies: [
       "PHP",
       "Laravel Framework",
